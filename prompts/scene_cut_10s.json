@@ -1,0 +1,284 @@
+{
+ "items": [
+  {
+   "id": 1,
+   "seed": 309,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "Static shot, static camera. Scene cut to a cozy living room with a knitted rug. A fluffy white kitten with blue eyes plays with a ball of red yarn.",
+    "Static shot, static camera. Scene cut to a sunny kitchen counter. A fluffy white kitten with blue eyes sniffs a bowl of milk and licks it.",
+    "Static shot, static camera. Scene cut to a windowsill with rain outside. A fluffy white kitten with blue eyes curls up and falls asleep."
+   ]
+  },
+  {
+   "id": 2,
+   "seed": 26,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "Static shot, static camera. Scene cut to a green park with fallen leaves. A small golden retriever puppy with a blue collar chases a red ball.",
+    "Static shot, static camera. Scene cut to a sandy beach with gentle waves. A small golden retriever puppy with a blue collar digs a hole in the sand.",
+    "Static shot, static camera. Scene cut to a cozy bedroom. A small golden retriever puppy with a blue collar yawns and lies down on a soft pillow."
+   ]
+  },
+  {
+   "id": 3,
+   "seed": 488,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "Static shot, static camera. Scene cut to a bamboo forest. A round baby panda munches on a bamboo stalk.",
+    "Static shot, static camera. Scene cut to a snowy hill. A round baby panda rolls down the snow.",
+    "Static shot, static camera. Scene cut to a wooden treehouse. A round baby panda hugs a tree branch and dozes off."
+   ]
+  },
+  {
+   "id": 4,
+   "seed": 720,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "Static shot, static camera. Scene cut to a kitchen table with sunflower seeds. A tiny hamster with brown and white fur stuffs seeds into its cheeks.",
+    "Static shot, static camera. Scene cut to a miniature toy car race track. A tiny hamster with brown and white fur runs on a spinning wheel.",
+    "Static shot, static camera. Scene cut to a tiny bed made of a matchbox. A tiny hamster with brown and white fur sleeps under a small blanket."
+   ]
+  },
+  {
+   "id": 5,
+   "seed": 785,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "Static shot, static camera. Scene cut to a rainy city sidewalk. A fluffy corgi puppy wearing a yellow raincoat splashes in a puddle.",
+    "Static shot, static camera. Scene cut to a colorful autumn forest. A fluffy corgi puppy wearing a yellow raincoat jumps into a pile of leaves.",
+    "Static shot, static camera. Scene cut to a warm living room by a fireplace. A fluffy corgi puppy wearing a yellow raincoat shakes off water and lies down."
+   ]
+  },
+  {
+   "id": 6,
+   "seed": 736,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "Static shot, static camera. Scene cut to an icy shore under a blue sky. A baby penguin with fluffy grey down waddles toward the camera.",
+    "Static shot, static camera. Scene cut to a snowy slope. A baby penguin with fluffy grey down slides down on its belly.",
+    "Static shot, static camera. Scene cut to a calm blue sea. A baby penguin with fluffy grey down swims and splashes."
+   ]
+  },
+  {
+   "id": 7,
+   "seed": 677,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "Static shot, static camera. Scene cut to a misty mountain forest. A little red panda climbs up a tree trunk.",
+    "Static shot, static camera. Scene cut to a garden with cherry blossoms. A little red panda eats a red apple.",
+    "Static shot, static camera. Scene cut to a cozy wooden cabin. A little red panda curls its striped tail and sleeps."
+   ]
+  },
+  {
+   "id": 8,
+   "seed": 849,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "Static shot, static camera. Scene cut to a sunny flower garden. A small orange tabby kitten chases a butterfly.",
+    "Static shot, static camera. Scene cut to a library with tall bookshelves. A small orange tabby kitten sits on an open book and looks around.",
+    "Static shot, static camera. Scene cut to a cardboard box in a bright room. A small orange tabby kitten jumps into the box and peeks out."
+   ]
+  },
+  {
+   "id": 9,
+   "seed": 620,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "Static shot, static camera. Scene cut to a calm river with green reeds. A cute baby otter floats on its back holding a pebble.",
+    "Static shot, static camera. Scene cut to a rocky shore. A cute baby otter cracks a shell with a stone.",
+    "Static shot, static camera. Scene cut to a snowy riverbank. A cute baby otter rolls in the snow."
+   ]
+  },
+  {
+   "id": 10,
+   "seed": 166,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "Static shot, static camera. Scene cut to a green meadow with daisies. A fluffy white bunny with long ears nibbles a carrot.",
+    "Static shot, static camera. Scene cut to a snowy forest. A fluffy white bunny with long ears hops through the snow.",
+    "Static shot, static camera. Scene cut to a basket of colorful eggs in a spring garden. A fluffy white bunny with long ears hides between the eggs."
+   ]
+  },
+  {
+   "id": 11,
+   "seed": 361,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "Static shot, static camera. Scene cut to a Japanese garden with a red bridge. A small shiba inu puppy runs across the bridge.",
+    "Static shot, static camera. Scene cut to a bamboo forest path. A small shiba inu puppy sniffs the ground.",
+    "Static shot, static camera. Scene cut to a tatami room with a low table. A small shiba inu puppy sits and tilts its head."
+   ]
+  },
+  {
+   "id": 12,
+   "seed": 182,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "Static shot, static camera. Scene cut to a farmyard with hay. A chubby baby chick pecks at grains.",
+    "Static shot, static camera. Scene cut to a kitchen table next to a teacup. A chubby baby chick hops into the teacup.",
+    "Static shot, static camera. Scene cut to a field of yellow dandelions. A chubby baby chick flaps its tiny wings."
+   ]
+  },
+  {
+   "id": 13,
+   "seed": 715,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "Static shot, static camera. Scene cut to a dusty savanna at sunset. A cute baby elephant walks next to an acacia tree.",
+    "Static shot, static camera. Scene cut to a muddy water hole. A cute baby elephant sprays water with its trunk.",
+    "Static shot, static camera. Scene cut to a green jungle clearing. A cute baby elephant plays with a big leaf."
+   ]
+  },
+  {
+   "id": 14,
+   "seed": 719,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "Static shot, static camera. Scene cut to a eucalyptus tree in the forest. A fluffy grey koala chews eucalyptus leaves.",
+    "Static shot, static camera. Scene cut to a sunny backyard. A fluffy grey koala hugs a wooden fence post.",
+    "Static shot, static camera. Scene cut to a cozy bedroom. A fluffy grey koala naps on a pile of pillows."
+   ]
+  },
+  {
+   "id": 15,
+   "seed": 799,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "Static shot, static camera. Scene cut to an autumn forest floor. A small brown hedgehog sniffs a red mushroom.",
+    "Static shot, static camera. Scene cut to a kitchen table. A small brown hedgehog rolls a small strawberry.",
+    "Static shot, static camera. Scene cut to a teacup on a wooden shelf. A small brown hedgehog curls up into a ball inside the teacup."
+   ]
+  },
+  {
+   "id": 16,
+   "seed": 820,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "Static shot, static camera. Scene cut to a fire station garage with a red fire truck. A playful dalmatian puppy wags its tail.",
+    "Static shot, static camera. Scene cut to a grassy backyard. A playful dalmatian puppy catches a frisbee.",
+    "Static shot, static camera. Scene cut to a bathtub full of bubbles. A playful dalmatian puppy splashes in the bubbles."
+   ]
+  },
+  {
+   "id": 17,
+   "seed": 464,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "Static shot, static camera. Scene cut to an arctic ice field. A baby polar bear walks clumsily on the ice.",
+    "Static shot, static camera. Scene cut to an icy blue ocean. A baby polar bear dives into the water.",
+    "Static shot, static camera. Scene cut to a snow cave. A baby polar bear cuddles up and sleeps."
+   ]
+  },
+  {
+   "id": 18,
+   "seed": 644,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "Static shot, static camera. Scene cut to a birthday party with balloons. A small black pug wearing a red bow tie sniffs a birthday cake.",
+    "Static shot, static camera. Scene cut to a snowy street with Christmas lights. A small black pug wearing a red bow tie trots through the snow.",
+    "Static shot, static camera. Scene cut to a sofa in a cozy living room. A small black pug wearing a red bow tie snores on a cushion."
+   ]
+  },
+  {
+   "id": 19,
+   "seed": 197,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "Static shot, static camera. Scene cut to a calm pond with lily pads. A fluffy baby duckling paddles in the water.",
+    "Static shot, static camera. Scene cut to a bathroom with a white bathtub. A fluffy baby duckling floats next to a rubber duck.",
+    "Static shot, static camera. Scene cut to a sunny grassy field. A fluffy baby duckling waddles after a butterfly."
+   ]
+  },
+  {
+   "id": 20,
+   "seed": 941,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "Static shot, static camera. Scene cut to a moonlit backyard. A curious raccoon cub peeks out of a trash can.",
+    "Static shot, static camera. Scene cut to a campsite with a glowing tent. A curious raccoon cub grabs a marshmallow.",
+    "Static shot, static camera. Scene cut to a forest stream at dawn. A curious raccoon cub washes its paws in the water."
+   ]
+  }
+ ]
+}

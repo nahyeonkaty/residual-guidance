@@ -1,0 +1,1405 @@
+{
+ "desc": "StoryEval 3-event stories, 10 s (14 chunks), prompts change at chunks 4 and 9",
+ "items": [
+  {
+   "id": 1,
+   "seed": 0,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "A Slinky is placed at the top of stairs.",
+    "The Slinky begins to walk down.",
+    "The Slinky reaches the bottom."
+   ]
+  },
+  {
+   "id": 2,
+   "seed": 1,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "A balloon artist inflates a long balloon.",
+    "The balloon artist twists it several times.",
+    "The balloon artist creates a dog shape."
+   ]
+  },
+  {
+   "id": 3,
+   "seed": 2,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "A bartender shakes a cocktail.",
+    "The bartender pours it into a glass.",
+    "The bartender garnishes it with a lemon wedge."
+   ]
+  },
+  {
+   "id": 4,
+   "seed": 3,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "A bear sniffs a picnic basket.",
+    "The bear takes out food.",
+    "The bear runs away."
+   ]
+  },
+  {
+   "id": 5,
+   "seed": 4,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "A bear stands by the waterfall.",
+    "The bear looks at the water.",
+    "The bear jumps off the waterfall."
+   ]
+  },
+  {
+   "id": 6,
+   "seed": 5,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "A beaver carries the branch.",
+    "The beaver puts them in the middle of the river.",
+    "The beaver starts building a dam."
+   ]
+  },
+  {
+   "id": 7,
+   "seed": 6,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "A bicycle pedals itself down the street.",
+    "The bicycle stops at a red light.",
+    "The bicycle continues when it turns green."
+   ]
+  },
+  {
+   "id": 8,
+   "seed": 7,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "A book falls off a shelf.",
+    "The book hits the floor.",
+    "The book opens to a page."
+   ]
+  },
+  {
+   "id": 9,
+   "seed": 8,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "A bowling ball rolls towards a pile of bowling pins.",
+    "The ball knocks over most of them.",
+    "A stand with the STOP words is placed down."
+   ]
+  },
+  {
+   "id": 10,
+   "seed": 9,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "A boy flies a kite.",
+    "The boy runs across the field.",
+    "The boy watches it soar."
+   ]
+  },
+  {
+   "id": 11,
+   "seed": 10,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "A butterfly emerges from a chrysalis.",
+    "The butterfly spreads its wings.",
+    "The butterfly takes flight."
+   ]
+  },
+  {
+   "id": 12,
+   "seed": 11,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "A butterfly flutters among flowers.",
+    "The butterfly rests on a leaf.",
+    "The butterfly continues flying."
+   ]
+  },
+  {
+   "id": 13,
+   "seed": 12,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "A butterfly lands on a shoulder of a woman.",
+    "The butterfly rests for a moment.",
+    "The butterfly flies away."
+   ]
+  },
+  {
+   "id": 14,
+   "seed": 13,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "A candle snuffer extinguishes a candle flame.",
+    "Smoke rises.",
+    "The snuffer is removed."
+   ]
+  },
+  {
+   "id": 15,
+   "seed": 14,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "A car drifts around a curve.",
+    "The car raises a cloud of dust.",
+    "The car quickly turns to the other side to pass through the S-curve."
+   ]
+  },
+  {
+   "id": 16,
+   "seed": 15,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "A car drives along the ocean surface.",
+    "Waves splash.",
+    "The car dives underwater."
+   ]
+  },
+  {
+   "id": 17,
+   "seed": 16,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "A car drives up a skyscraper.",
+    "The car reaches the top.",
+    "The car drives off into the sky."
+   ]
+  },
+  {
+   "id": 18,
+   "seed": 17,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "A cat chases a laser pointer dot.",
+    "The cat catches it.",
+    "The dot becomes a real glowing ball."
+   ]
+  },
+  {
+   "id": 19,
+   "seed": 18,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "A cat chases a mouse.",
+    "The mouse pulls out a remote.",
+    "The mouse pauses the cat in mid-air."
+   ]
+  },
+  {
+   "id": 20,
+   "seed": 19,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "A cat conducts a science experiment.",
+    "The cat mixes chemicals carefully.",
+    "The cat observes the reaction."
+   ]
+  },
+  {
+   "id": 21,
+   "seed": 20,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "A cat paints a self-portrait.",
+    "The cat adds whiskers carefully.",
+    "The cat signs the artwork with a paw print."
+   ]
+  },
+  {
+   "id": 22,
+   "seed": 21,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "A cat tries to jump over the gap between two bookshelves.",
+    "The cat slips.",
+    "The cat falls off the shelf."
+   ]
+  },
+  {
+   "id": 23,
+   "seed": 22,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "A cat watches a bowl filled with water.",
+    "The cat dips a paw inside.",
+    "The cat takes it out."
+   ]
+  },
+  {
+   "id": 24,
+   "seed": 23,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "A cat watches a fish tank.",
+    "The cat taps the glass.",
+    "The cat walks away."
+   ]
+  },
+  {
+   "id": 25,
+   "seed": 24,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "A chef whisks eggs.",
+    "The chef pours them into a hot pan.",
+    "The chef flips the omelette."
+   ]
+  },
+  {
+   "id": 26,
+   "seed": 25,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "A chicken stands on a robot vacuum cleaner.",
+    "They move together for a distance.",
+    "They start to circle."
+   ]
+  },
+  {
+   "id": 27,
+   "seed": 26,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "A child builds a fort.",
+    "The child hides inside.",
+    "The child reaches out."
+   ]
+  },
+  {
+   "id": 28,
+   "seed": 27,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "A child plants a coin in the ground.",
+    "A money tree grows.",
+    "Gold coins fall like leaves."
+   ]
+  },
+  {
+   "id": 29,
+   "seed": 28,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "A cityscape folds up like paper origami.",
+    "The cityscape transforms into a bird.",
+    "The bird flies away."
+   ]
+  },
+  {
+   "id": 30,
+   "seed": 29,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "A cloud descends to ground level.",
+    "The cloud waters the plants in a garden.",
+    "The cloud floats back up."
+   ]
+  },
+  {
+   "id": 31,
+   "seed": 30,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "A cloud rains candies.",
+    "Children open umbrellas upside-down.",
+    "The candies fill their umbrellas."
+   ]
+  },
+  {
+   "id": 32,
+   "seed": 31,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "A comet streaks across the sky.",
+    "The comet leaves a trail of flowers.",
+    "The flowers all disappears."
+   ]
+  },
+  {
+   "id": 33,
+   "seed": 32,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "A cup of coffee is stirred.",
+    "A galaxy forms inside the cup.",
+    "Tiny planets orbit."
+   ]
+  },
+  {
+   "id": 34,
+   "seed": 33,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "A dog digs in the garden.",
+    "The dog uncovers a bone.",
+    "The dog chews on it."
+   ]
+  },
+  {
+   "id": 35,
+   "seed": 34,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "A dog fetches a stick.",
+    "The dog drops it at its owner's feet.",
+    "The dog wags its tail."
+   ]
+  },
+  {
+   "id": 36,
+   "seed": 35,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "A dog spins in a circle.",
+    "The dog jumps up.",
+    "The dog catches a Frisbee on the grass."
+   ]
+  },
+  {
+   "id": 37,
+   "seed": 36,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "A dog wears a suit.",
+    "The dog carries a briefcase.",
+    "The dog takes the subway to work."
+   ]
+  },
+  {
+   "id": 38,
+   "seed": 37,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "A dolphin plays with seaweed.",
+    "The dolphin swims in circles.",
+    "The dolphin joins its pod."
+   ]
+  },
+  {
+   "id": 39,
+   "seed": 38,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "A dolphin swims alongside a boat.",
+    "The dolphin leaps out of the water.",
+    "The dolphin dives back in."
+   ]
+  },
+  {
+   "id": 40,
+   "seed": 39,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "A domino is tipped over.",
+    "The domino knocks down a line of dominos.",
+    "The last domino hits a bell."
+   ]
+  },
+  {
+   "id": 41,
+   "seed": 40,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "A dragon blows bubbles instead of fire.",
+    "The bubbles float away.",
+    "The bubbles burst into tiny stars."
+   ]
+  },
+  {
+   "id": 42,
+   "seed": 41,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "A fish swims out of a fishbowl.",
+    "The fish floats in midair.",
+    "The fish dives into a painting of an ocean."
+   ]
+  },
+  {
+   "id": 43,
+   "seed": 42,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "A flashlight is turned on.",
+    "The flashlight shines a beam of light.",
+    "The flashlight is turned off."
+   ]
+  },
+  {
+   "id": 44,
+   "seed": 43,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "A flower blooms slowly.",
+    "The petals open wide.",
+    "A bee lands on it."
+   ]
+  },
+  {
+   "id": 45,
+   "seed": 44,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "A fountain sprays water upward.",
+    "The water turns into fish.",
+    "The fish swim away in the sky."
+   ]
+  },
+  {
+   "id": 46,
+   "seed": 45,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "A gardener digs a hole.",
+    "The gardener places a seedling in it.",
+    "The gardener pats down the soil."
+   ]
+  },
+  {
+   "id": 47,
+   "seed": 46,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "A giraffe lifts up its neck.",
+    "The giraffe eats leaves from a tall tree.",
+    "The giraffe chews slowly."
+   ]
+  },
+  {
+   "id": 48,
+   "seed": 47,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "A girl puts her hair up in a bun.",
+    "The girl ties it with a hairband.",
+    "The girl admires herself in the mirror."
+   ]
+  },
+  {
+   "id": 49,
+   "seed": 48,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "A glass of water is spilled.",
+    "The water forms into a small river.",
+    "A tiny toy boat sail on it."
+   ]
+  },
+  {
+   "id": 50,
+   "seed": 49,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "A gorilla beats its chest.",
+    "The gorilla sits down.",
+    "The gorilla starts to eat."
+   ]
+  },
+  {
+   "id": 51,
+   "seed": 50,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "A hedgehog curls into a ball.",
+    "The hedgehog uncurls.",
+    "The hedgehog continues walking."
+   ]
+  },
+  {
+   "id": 52,
+   "seed": 51,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "A horse pulls a carriage.",
+    "The horse trots down the street.",
+    "The horse stops at a destination."
+   ]
+  },
+  {
+   "id": 53,
+   "seed": 52,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "A kangaroo joey peeks out from its mother's pouch.",
+    "The kangaroo joey hops out.",
+    "The kangaroo joey runs away."
+   ]
+  },
+  {
+   "id": 54,
+   "seed": 53,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "A keyboard is typed on.",
+    "The letters rise up.",
+    "The letters arrange themselves into a 3D sculpture."
+   ]
+  },
+  {
+   "id": 55,
+   "seed": 54,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "A library's books rearrange themselves at night.",
+    "The books organize by color.",
+    "The books starts to dance on the shelves."
+   ]
+  },
+  {
+   "id": 56,
+   "seed": 55,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "A little black sheep runs on the grass.",
+    "The sheep stops next to a big white sheep.",
+    "The sheep interacts with the white sheep."
+   ]
+  },
+  {
+   "id": 57,
+   "seed": 56,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "A mailbox sorts its own mail.",
+    "The mailbox discards junk letters.",
+    "The mailbox flags important ones."
+   ]
+  },
+  {
+   "id": 58,
+   "seed": 57,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "A man reaches up.",
+    "The man takes a star from the sky.",
+    "The man puts it into his pocket."
+   ]
+  },
+  {
+   "id": 59,
+   "seed": 58,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "A man stands on the top of a mountain.",
+    "The man takes a photograph.",
+    "The man turns around."
+   ]
+  },
+  {
+   "id": 60,
+   "seed": 59,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "A man tunes his guitar.",
+    "The man strums a chord.",
+    "The man begins to sing."
+   ]
+  },
+  {
+   "id": 61,
+   "seed": 60,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "A match is struck against a box.",
+    "The match ignites a flame.",
+    "The match lights a candle."
+   ]
+  },
+  {
+   "id": 62,
+   "seed": 61,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "A monkey picks bugs off its friend.",
+    "The monkey eats them.",
+    "The monkey jumps to another branch."
+   ]
+  },
+  {
+   "id": 63,
+   "seed": 62,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "A monkey swings on ropes.",
+    "The monkey tumbles to the ground.",
+    "The monkey climbs back up."
+   ]
+  },
+  {
+   "id": 64,
+   "seed": 63,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "A mouse stands near the couch.",
+    "The mouse jumps onto the couch.",
+    "The mouse goes to a cushion on the couch."
+   ]
+  },
+  {
+   "id": 65,
+   "seed": 64,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "A painter dips a brush into water.",
+    "The painter paints a rainbow in the sky.",
+    "The rainbow becomes real."
+   ]
+  },
+  {
+   "id": 66,
+   "seed": 65,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "A pair of shoes walks themselves to the store.",
+    "The shoes try on new laces.",
+    "The shoes purchase them."
+   ]
+  },
+  {
+   "id": 67,
+   "seed": 66,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "A panda sits down.",
+    "The panda eats bamboo.",
+    "The panda rolls over playfully."
+   ]
+  },
+  {
+   "id": 68,
+   "seed": 67,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "A paper airplane is thrown into the air.",
+    "The paper airplane glides gracefully.",
+    "The paper airplane lands on the ground."
+   ]
+  },
+  {
+   "id": 69,
+   "seed": 68,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "A paper crane unfolds itself.",
+    "The crane turns into a real bird.",
+    "The bird flies off."
+   ]
+  },
+  {
+   "id": 70,
+   "seed": 69,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "A pencil sharpener grinds a pencil.",
+    "The shavings fall into a container with transparent wall.",
+    "The pencil is removed."
+   ]
+  },
+  {
+   "id": 71,
+   "seed": 70,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "A penguin waddles on the ice.",
+    "The penguin tries to slide on its belly.",
+    "The penguin dives into the sea."
+   ]
+  },
+  {
+   "id": 72,
+   "seed": 71,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "A person flips a coin.",
+    "The person catches it in their hand.",
+    "The person removes the hand to show the coin."
+   ]
+  },
+  {
+   "id": 73,
+   "seed": 72,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "A person picks up a piece of food with a fork.",
+    "The person puts it in her mouth.",
+    "The person starts chewing."
+   ]
+  },
+  {
+   "id": 74,
+   "seed": 73,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "A person ties shoelaces tightly.",
+    "The person stands up.",
+    "The person starts running."
+   ]
+  },
+  {
+   "id": 75,
+   "seed": 74,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "A person walks on the ceiling in a upside-down way.",
+    "The person drops a ball.",
+    "The ball flies to the ceiling."
+   ]
+  },
+  {
+   "id": 76,
+   "seed": 75,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "A pharmacist counts pills.",
+    "The pharmacist fills them into a prescription bottle.",
+    "The pharmacist labels the bottle."
+   ]
+  },
+  {
+   "id": 77,
+   "seed": 76,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "A piece of paper is crumpled into a ball.",
+    "The paper is thrown into a bin.",
+    "The paper bounces out."
+   ]
+  },
+  {
+   "id": 78,
+   "seed": 77,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "A rabbit pulls a magician out of a hat.",
+    "The rabbit hands him his wand.",
+    "The rabbit hops away."
+   ]
+  },
+  {
+   "id": 79,
+   "seed": 78,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "A river flows uphill.",
+    "Boats sail upward.",
+    "The boats reach a mountain peak."
+   ]
+  },
+  {
+   "id": 80,
+   "seed": 79,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "A sea turtle hatches from an egg.",
+    "The sea turtle crawls on the beach.",
+    "The sea turtle goes into the ocean."
+   ]
+  },
+  {
+   "id": 81,
+   "seed": 80,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "A soccer ball is kicked.",
+    "The ball flies toward the goal.",
+    "The ball hits the crossbar."
+   ]
+  },
+  {
+   "id": 82,
+   "seed": 81,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "A speed painter dips a brush in paint.",
+    "The speed painter makes rapid strokes on canvas.",
+    "The speed painter reveals a portrait."
+   ]
+  },
+  {
+   "id": 83,
+   "seed": 82,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "A squirrel climbs a fence.",
+    "The squirrel steals a nut.",
+    "The squirrel scurries away."
+   ]
+  },
+  {
+   "id": 84,
+   "seed": 83,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "A squirrel operates a lemonade stand.",
+    "The squirrel squeezes fresh lemons.",
+    "The squirrel serves customers."
+   ]
+  },
+  {
+   "id": 85,
+   "seed": 84,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "A streetlight sprouts leaves.",
+    "The streetlight grows into a tree.",
+    "The tree bears glowing fruits."
+   ]
+  },
+  {
+   "id": 86,
+   "seed": 85,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "A suitcase packs itself with clothes.",
+    "The suitcase zips up.",
+    "The suitcase rolls toward the door ready for travel."
+   ]
+  },
+  {
+   "id": 87,
+   "seed": 86,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "A sunroof slides open.",
+    "Sunlight streams in and the room become lighter.",
+    "The sunroof closes."
+   ]
+  },
+  {
+   "id": 88,
+   "seed": 87,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "A sushi chef slices a fish.",
+    "The sushi chef molds rice in his hand.",
+    "The sushi chef places the fish on top."
+   ]
+  },
+  {
+   "id": 89,
+   "seed": 88,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "A toucan tosses a berry into the air.",
+    "The toucan flies up.",
+    "The toucan catches it."
+   ]
+  },
+  {
+   "id": 90,
+   "seed": 89,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "A tree grows books as leaves.",
+    "People pick them.",
+    "The people start reading under the tree."
+   ]
+  },
+  {
+   "id": 91,
+   "seed": 90,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "A turtle hosts a marathon race.",
+    "The turtle fires the starting pistol.",
+    "The turtle cheers on the runners."
+   ]
+  },
+  {
+   "id": 92,
+   "seed": 91,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "A vending machine dispenses a snack.",
+    "The snack drops down.",
+    "The snack is picked up by someone's hand."
+   ]
+  },
+  {
+   "id": 93,
+   "seed": 92,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "A violin bow is drawn across a rail.",
+    "The bow produces music.",
+    "A train arrives."
+   ]
+  },
+  {
+   "id": 94,
+   "seed": 93,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "A waiter clears a table.",
+    "The waiter wipes it clean.",
+    "The waiter sets new place settings."
+   ]
+  },
+  {
+   "id": 95,
+   "seed": 94,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "A whale breaches the surface.",
+    "The whale spouts water.",
+    "The whale dives deep."
+   ]
+  },
+  {
+   "id": 96,
+   "seed": 95,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "A wind chime sways in the breeze.",
+    "The wind chime produces soft sounds.",
+    "The wind chime becomes still."
+   ]
+  },
+  {
+   "id": 97,
+   "seed": 96,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "A windmill rotates its blades in the wind.",
+    "The windmill speeds up.",
+    "The windmill slows down to stop as the wind dies."
+   ]
+  },
+  {
+   "id": 98,
+   "seed": 97,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "A woman sips coffee.",
+    "The woman takes up a newspaper.",
+    "The woman begins to read it."
+   ]
+  },
+  {
+   "id": 99,
+   "seed": 98,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "An eagle swoops to the water.",
+    "The eagle reaches into the water with its claws.",
+    "The eagle grabs a fish."
+   ]
+  },
+  {
+   "id": 100,
+   "seed": 99,
+   "n_chunks": 14,
+   "switch_chunks": [
+    4,
+    9
+   ],
+   "prompts": [
+    "Some clouthes are put into a washing machine.",
+    "The door of it closes.",
+    "The inside of washing machine starts spinning."
+   ]
+  }
+ ]
+}

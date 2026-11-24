@@ -1,0 +1,44 @@
+[project]
+name = "residual-guidance"
+version = "0.1.0"
+description = "Residual guidance for prompt switches in autoregressive video diffusion"
+readme = "README.md"
+license = { text = "MIT" }
+requires-python = ">=3.10,<3.11"
+# One environment for generate.py / speed.py and the four upstream backbones (Self Forcing, Causal Forcing, LongLive, Infinity-RoPE).
+dependencies = [
+    "torch==2.5.1",
+    "torchvision==0.20.1",
+    "transformers==4.49.0",
+    "diffusers==0.31.0",
+    "accelerate>=1.1.1",
+    "peft==0.14.0",
+    "numpy==1.24.4",
+    "av==13.1.0",
+    "opencv-python",
+    "imageio",
+    "imageio-ffmpeg",
+    "einops",
+    "easydict",
+    "omegaconf",
+    "safetensors",
+    "sentencepiece",
+    "ftfy",
+    "huggingface-hub[cli]",
+    "tqdm",
+    "flash-attn==2.7.4.post1",      # required by the upstream Wan attention
+]
+
+[tool.uv]
+package = false
+
+[tool.uv.sources]
+torch = { index = "pytorch-cu121" }
+torchvision = { index = "pytorch-cu121" }
+# prebuilt wheel for torch 2.5 / CUDA 12 / Python 3.10 (no compilation)
+flash-attn = { url = "https://github.com/Dao-AILab/flash-attention/releases/download/v2.7.4.post1/flash_attn-2.7.4.post1+cu12torch2.5cxx11abiFALSE-cp310-cp310-linux_x86_64.whl" }
+
+[[tool.uv.index]]
+name = "pytorch-cu121"
+url = "https://download.pytorch.org/whl/cu121"
+explicit = true
