@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://residual-guidance.github.io"><img src="https://img.shields.io/badge/Project-Page-blue" alt="Project Page"></a>
-  <a href="#"><img src="https://img.shields.io/badge/arXiv-coming%20soon-b31b1b" alt="arXiv"></a>
+  <a href="https://arxiv.org/abs/2611.32820"><img src="https://img.shields.io/badge/arXiv-2611.32820-b31b1b" alt="arXiv"></a>
 </p>
 
 **TL;DR** Autoregressive video models often ignore a new prompt given mid-generation, because the cached past keeps pulling
@@ -177,7 +177,7 @@ Wan2.1) and their checkpoints keep their own licenses.
 @article{park2026residual,
   title   = {Residual Guidance for Real-Time Interactive Video Generation},
   author  = {Park, NaHyeon and Moon, Kyeong-Hwan and Jeon, Youjin and Shim, Hyunjung},
-  journal = {arXiv preprint},
+  journal = {arXiv preprint arXiv:2611.32820},
   year    = {2026}
 }
 ```
